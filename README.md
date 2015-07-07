@@ -1,2 +1,3 @@
 # hello-world
-test
+# my first github repository
+# time to learn new things
